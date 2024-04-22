@@ -1,0 +1,27 @@
+/* applies to all odd numbers */
+.odd {
+    background-color: #FFB6C1;
+    font-family: verdana, "dejavu sans", sans-serif;
+
+}
+
+/* this applies to number 2 */
+#two { 
+    color: #0000FF;
+    font-size: 36px;
+
+}
+
+/* font size number 3 */
+.adjust-font-size { 
+        font-size: 24px;
+}
+
+
+/* light green number 4 */
+
+#four {
+        background-color: #00FF00;
+        font-size: 24px;
+        font-weight: 700; 
+}
